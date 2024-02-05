@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1707140593840,
+  "timestamp": 1707140960070,
   "index": "/parcel-app/index.html",
   "assetGroups": [
     {
@@ -11,11 +11,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "/parcel-app/chunk-3RBRNMAC.js",
-        "/parcel-app/chunk-OU5E6Z66.js",
+        "/parcel-app/chunk-5RUESU3A.js",
+        "/parcel-app/chunk-P7PKPZ7B.js",
         "/parcel-app/favicon.ico",
         "/parcel-app/index.html",
-        "/parcel-app/main-CFYZSC3O.js",
+        "/parcel-app/main-GEIA2JZM.js",
         "/parcel-app/manifest.webmanifest",
         "/parcel-app/polyfills-RX4V3J3S.js",
         "/parcel-app/styles-UIFAVG2A.css"
@@ -56,11 +56,11 @@
     "/parcel-app/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/parcel-app/assets/images/icons8-search-30.png": "62f15b45d1d49548a90eb569774a35dbf7298701",
     "/parcel-app/assets/parcels.json": "ced9011fef8ffa4cd7835b7f616ed3a872e2a321",
-    "/parcel-app/chunk-3RBRNMAC.js": "fb28acf1f655472eeeb12c2a3d922a38a004a791",
-    "/parcel-app/chunk-OU5E6Z66.js": "45256a92ae782491def63aeb4f8ce318c05eccf5",
+    "/parcel-app/chunk-5RUESU3A.js": "bd044996e3b476a6139bd4d133d3851cbbc75a11",
+    "/parcel-app/chunk-P7PKPZ7B.js": "78d9547f1a14fe1f4f58ebec3272759239dee41c",
     "/parcel-app/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/parcel-app/index.html": "a327a9a854f08dd20e50883965a2ae764cfae050",
-    "/parcel-app/main-CFYZSC3O.js": "0bd0a9044f3432a3975a6a5f773cb15210bab72f",
+    "/parcel-app/index.html": "bf7ba26b0f3fc6a334414ddbbaa440296d5aa290",
+    "/parcel-app/main-GEIA2JZM.js": "332d6af9b92273cd7bead9d32dd985f0acdf1f4b",
     "/parcel-app/manifest.webmanifest": "affea1e04dee494b44602f047c785e370a57da1c",
     "/parcel-app/polyfills-RX4V3J3S.js": "6b4c4ea33aa92bce0b91df442a680ed73e4303db",
     "/parcel-app/styles-UIFAVG2A.css": "6235f36eb1aeb7e50ddc0448cb66f36c22366431"

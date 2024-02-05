@@ -14,7 +14,7 @@ export class ParcelService {
   readonly parcelsObs$ = this.parcels$.asObservable()
 
   getAllParcels(){
-    return this.http.get<{parcels:Parcel[]}>('/assets/parcels.json').pipe(map(({parcels})=>{
+    return this.http.get<{parcels:Parcel[]}>(this.BASE_HREF+'assets/parcels.json').pipe(map(({parcels})=>{
       this.parcels$.next(parcels)
       return parcels
     }),catchError(()=>{

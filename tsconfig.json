@@ -13,6 +13,11 @@
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
+    "paths": {
+      "@components/*":["./src/app/components/*"],
+      "@services/*":["./src/app/services/*"],
+      "@interfaces/*":["./src/app/interfaces/*"]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,

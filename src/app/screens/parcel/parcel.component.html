@@ -1,0 +1,4 @@
+<section class="min-h-screen container mx-auto flex flex-col gap-12 justify-center items-center">
+  <app-parcel-search-input [loading]="loading" [parcelNumberSubject]="parcelNumber$"></app-parcel-search-input>
+  <app-parcel-details [loading]="loading" [parcel]="(parcel$|async)!"></app-parcel-details>
+</section>
